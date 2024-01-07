@@ -21,7 +21,7 @@ import kubernetes from "../../assets/icons/kubernetes.svg";
 import ansible from "../../assets/icons/ansible.svg";
 import gitlab from "../../assets/icons/gitlab.svg";
 import pormetheus from "../../assets/icons/prometheus.svg";
-import nextjs from "../../assets/icons/next-js-.svg";
+import nextjs from "../../assets/icons/nextjsicon.svg";
 import palphoneweb from "../../assets/img/palphoneweb.png";
 import backoffice from "../../assets/img/backoffice.png";
 import palphone from "../../assets/img/palphone.png";
